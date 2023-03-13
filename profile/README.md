@@ -6,7 +6,7 @@ To solve your exclusive business use cases using Cisco Collaboration solutions -
 
 
 For a list of all Bot repos avaiable currently, check [here](https://github.com/search?q=topic%3Abot+org%3Awxsd-sales+fork%3Atrue&type=repositories)
-For a list of all Macro repos available currently, check [https://github.com/search?q=topic%3Abot+org%3Awxsd-sales+fork%3Atrue&type=repositories)
+For a list of all Macro repos available currently, check [here](https://github.com/search?q=topic%3Amacro+org%3Awxsd-sales+fork%3Atrue&type=repositories)
 
 
 Your use of the site is solely at your own risk. This site may contain links to third party content, which we do not warrant, endorse, or assume liability for. These demos are for Cisco Webex usecases, but are not Official Cisco Webex Branded demos.
