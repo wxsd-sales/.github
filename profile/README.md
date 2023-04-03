@@ -2,8 +2,7 @@
  Welcome to our WXSD DEMO Repo! This is home to all our demo projects delivered on "Art of The Possible" & Webex Labs using Webex APIs and SDKs. 
 Everything included is for demo and Proof of Concept purposes only. 
 
-To solve your exclusive business use cases using Cisco Collaboration solutions - reach out to globalexpert@webex.bot.
-
+To solve your exclusive business use cases using Cisco Collaboration solutions - reach out to us at wxsd@external.cisco.com or for Cisco internal usage, ping our bot (globalexpert@webex.bot) on the Webex App. 
 
 Easy to Find - Check out a list of:
 * All Bot repos available currently [here](https://github.com/search?q=topic%3Abot+org%3Awxsd-sales+fork%3Atrue&type=repositories)
