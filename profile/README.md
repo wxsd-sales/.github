@@ -1,6 +1,6 @@
 # Welcome to Webex Solution Developers (WXSD)!
 
-👋 Welcome to Webex Solution Developers (WXSD), your destination for exploring innovative demos and Proof of Concepts (PoCs) using Webex APIs and SDKs.
+👋 Welcome to Webex Solution Developers (WXSD), your destination for exploring innovative demos and "Art of the Possible" using Webex APIs and SDKs.
 
 ### About Us
 At WXSD, we specialize in crafting demos and PoCs that leverage Cisco Collaboration solutions to address exclusive business use cases. Whether you're exploring Webex APIs, SDKs, or integrating Cisco technologies, our projects serve as a starting point for innovation and exploration.
