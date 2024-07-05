@@ -1,13 +1,27 @@
-## Hi there 👋
- Welcome to our WXSD DEMO Repo! This is home to all our demo projects delivered on "Art of The Possible" & Webex Labs using Webex APIs and SDKs. 
-Everything included is for demo and Proof of Concept purposes only. 
+# Welcome to Webex Solution Developers (WXSD)!
 
-To solve your exclusive business use cases using Cisco Collaboration solutions - reach out to us at wxsd@external.cisco.com or for Cisco internal usage, ping our bot (globalexpert@webex.bot) on the Webex App. 
+👋 Welcome to Webex Solution Developers (WXSD), your destination for exploring innovative demos and Proof of Concepts (PoCs) using Webex APIs and SDKs.
 
-Easy to Find - Check out a list of:
-* All Bot repos available currently [here](https://github.com/search?q=topic%3Abot+org%3Awxsd-sales+fork%3Atrue&type=repositories)
-* All Macro repos available currently [here](https://github.com/search?q=topic%3Amacro+org%3Awxsd-sales+fork%3Atrue&type=repositories)
-* All Embedded App repos available currently [here](https://github.com/search?q=topic%3Aembeddedapp+org%3Awxsd-sales+fork%3Atrue&type=repositories)
+### About Us
+At WXSD, we specialize in crafting demos and PoCs that leverage Cisco Collaboration solutions to address exclusive business use cases. Whether you're exploring Webex APIs, SDKs, or integrating Cisco technologies, our projects serve as a starting point for innovation and exploration.
 
+### Contact Us
+To discuss how our solutions can meet your specific business needs:
+- For external inquiries, contact us at [wxsd@external.cisco.com](mailto:wxsd@external.cisco.com).
+- For Cisco internal usage, ping our bot on the Webex App (globalexpert@webex.bot).
 
-*Use of the site is solely at your own risk. This site may contain links to third party content, which we do not warrant, endorse, or assume liability for. These demos are for Cisco Webex usecases, but are not Official Cisco Webex Branded demos.
+### Explore Our Repositories
+Explore our repositories by category:
+- **[Embedded Apps](https://github.com/search?q=topic%3Aembeddedapp+org%3Awxsd-sales+fork%3Atrue&type=repositories)**
+- **[Bots](https://github.com/search?q=topic%3Abot+org%3Awxsd-sales+fork%3Atrue&type=repositories)**
+- **[Integrations](https://github.com/search?q=topic%3Aintegration+org%3Awxsd-sales+fork%3Atrue&type=repositories)**
+- **[Service Apps](https://github.com/search?q=topic%3Aserviceapp+org%3Awxsd-sales+fork%3Atrue&type=repositories)**
+- **[Guest Issuer](https://github.com/search?q=topic%3Aguestissuer+org%3Awxsd-sales+fork%3Atrue&type=repositories)**
+- **[Macros](https://github.com/search?q=topic%3Amacro+org%3Awxsd-sales+fork%3Atrue&type=repositories)**
+- **[Workspace Integrations](https://github.com/search?q=topic%3Aworkspaceintegration+org%3Awxsd-sales+fork%3Atrue&type=repositories)**
+- **[Miscellaneous](https://github.com/search?q=topic%3Amiscellaneous+org%3Awxsd-sales+fork%3Atrue&type=repositories)**
+
+### Disclaimer
+Everything included in our repositories is for demo and Proof of Concept (PoC) purposes only. Use of our demos is solely at your own risk. These projects may contain links to third-party content, which we do not endorse or assume liability for. While our demos showcase Cisco Webex use cases, they are not official Cisco Webex branded projects.
+
+Thank you for visiting Webex Solution Developers (WXSD)! We look forward to collaborating with you.
